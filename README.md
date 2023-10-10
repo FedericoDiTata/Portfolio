@@ -15,7 +15,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Sales Analysis Dashboard - Restaurant Sales Data
+**Tableau Dashboard - Restaurant Sales Data**
+(https://public.tableau.com/app/profile/federico.di.tata/viz/TableauDashboard-FedericoDiTata/Dashboard-VentasporCategora#1)
 
 **Goal:** The objective of this project was to conduct an in-depth analysis of restaurant sales data, aiming to uncover actionable insights for strategic decision-making and performance optimization.
 
