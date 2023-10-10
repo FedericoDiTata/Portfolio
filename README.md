@@ -16,6 +16,8 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 **Tableau Dashboard - Restaurant Sales Data**
+
+**URL**
 (https://public.tableau.com/app/profile/federico.di.tata/viz/TableauDashboard-FedericoDiTata/Dashboard-VentasporCategora#1)
 
 **Goal:** The objective of this project was to conduct an in-depth analysis of restaurant sales data, aiming to uncover actionable insights for strategic decision-making and performance optimization.
@@ -26,3 +28,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** In this comprehensive analysis of restaurant sales data, I extracted valuable insights for strategic decision-making. By examining variations in product prices across categories, managers can discern high and low-priced segments. Monthly sales patterns were observed, aiding in adaptive strategies for fluctuating sales volumes. Product type sales shed light on popular items and their contribution to overall revenue. Evaluating sales per waiter highlighted individual performance and their specific contributions to product-specific revenue streams. Visualization of tips facilitated the identification of waiters delivering exceptional customer service, and analyzing sales based on customer types provided nuanced insights. Understanding high-tipping product categories allowed personalized customer recommendations. Furthermore, the comparison of new versus repeat customers gauged customer loyalty, guiding tailored marketing approaches. Lastly, the 2014 sales KPI offered a holistic overview, assisting in performance assessment and future goal setting.
 
+**Power BI Dashboard - VideoGames Sales**
+
+**Goal:** To conduct an in-depth analysis of video game sales data spanning from 1980 to 2016. The objective is to extract meaningful insights, analyze sales trends over the years, and identify patterns across platforms, genres, and regions. Additionally, the project aims to enhance decision-making processes within the gaming industry.
+
+**Description:** The dataset comprises extensive records of video game sales, encompassing details such as game names, platforms, release years, genres, publishers, regions, and sales figures. The project unfolds through several stages: data extraction and transformation, creation of calculated measures and tables, development of interactive visualizations, and deriving insights from the data.
+
+**Skills:** Data extraction, data transformation, interactive dashboard development, data visualization, trend analysis, geographical analysis.
+
+**Technology:** Power BI, DAX (Data Analysis Expressions).
+
+**Results:** The project resulted in a dynamic Power BI dashboard featuring interactive visualizations. It includes trend analyses showcasing sales patterns over decades, regional comparisons of sales volumes, platform-specific performance evaluations, and genre-based sales insights. Notably, the dashboard offers a comprehensive overview of the gaming industry's evolution, aiding stakeholders in making informed decisions based on historical sales data.
+
+This analysis serves as a valuable tool for industry professionals, providing deep insights into the video game market's dynamics and aiding in strategic planning and decision-making processe
