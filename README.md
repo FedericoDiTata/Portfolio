@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-**Tableau Dashboard - Restaurant Sales Data**
+### **Tableau Dashboard - Restaurant Sales Data**
 
 **URL**
 (https://public.tableau.com/app/profile/federico.di.tata/viz/TableauDashboard-FedericoDiTata/Dashboard-VentasporCategora#1)
@@ -28,7 +28,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** In this comprehensive analysis of restaurant sales data, I extracted valuable insights for strategic decision-making. By examining variations in product prices across categories, managers can discern high and low-priced segments. Monthly sales patterns were observed, aiding in adaptive strategies for fluctuating sales volumes. Product type sales shed light on popular items and their contribution to overall revenue. Evaluating sales per waiter highlighted individual performance and their specific contributions to product-specific revenue streams. Visualization of tips facilitated the identification of waiters delivering exceptional customer service, and analyzing sales based on customer types provided nuanced insights. Understanding high-tipping product categories allowed personalized customer recommendations. Furthermore, the comparison of new versus repeat customers gauged customer loyalty, guiding tailored marketing approaches. Lastly, the 2014 sales KPI offered a holistic overview, assisting in performance assessment and future goal setting.
 
-**Power BI Dashboard - VideoGames Sales**
+### **Power BI Dashboard - VideoGames Sales**
 
 [Download .pbix file](https://github.com/FedericoDiTata/Portfolio/blob/main/Federico%20Di%20Tata%20-%20Data%20Analyst%20-%20CV.pdf](https://github.com/FedericoDiTata/Portfolio/blob/main/Data%20Analytics%20-%20Videogames.pbix))
 
