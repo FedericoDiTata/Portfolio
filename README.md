@@ -1,11 +1,8 @@
-# Portfolio
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
-
 # Federico Di Tata - Data Analyst Portfolio
 ## About
 H!! I'm Federico, a dedicated data professional with a versatile background spanning technical support for Google platforms and extensive expertise in digital analytics. My journey in the tech world has equipped me with a deep understanding of platforms like Google Ads, Analytics, Tag Manager, and Merchant Center, blending technical proficiency with effective communication skills.
 
-My expertise extends to the dynamic realm of government initiatives in Buenos Aires, where I've been actively involved in optimizing digital strategies, utilizing demand side platforms for implementing programmatic advertising and collect data through them
+My expertise extends to the dynamic realm of government initiatives in Buenos Aires, where I've been actively involved in optimizing digital strategies, utilizing demand side platforms for implementing programmatic advertising and collect data through them. I was part of the project for digital campaigns specifically designed for the candidacy of certain governors and presidents running for the country's elections. 
 
 My passion for data analytics fuels my desire to unravel intricate data puzzles, transforming raw information into actionable insights. I thrive in dynamic environments, embracing challenges, and constantly seeking innovative ways to contribute positively to the world
 
