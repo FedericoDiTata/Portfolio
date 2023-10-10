@@ -30,7 +30,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Power BI Dashboard - VideoGames Sales**
 
-[**Download .pbix file**]([https://github.com/FedericoDiTata/Portfolio/blob/main/Federico%20Di%20Tata%20-%20Data%20Analyst%20-%20CV.pdf](https://github.com/FedericoDiTata/Portfolio/blob/main/Data%20Analytics%20-%20Videogames.pbix))
+[Download .pbix file](https://github.com/FedericoDiTata/Portfolio/blob/main/Federico%20Di%20Tata%20-%20Data%20Analyst%20-%20CV.pdf](https://github.com/FedericoDiTata/Portfolio/blob/main/Data%20Analytics%20-%20Videogames.pbix))
 
 **Goal:** To conduct an in-depth analysis of video game sales data spanning from 1980 to 2016. The objective is to extract meaningful insights, analyze sales trends over the years, and identify patterns across platforms, genres, and regions. Additionally, the project aims to enhance decision-making processes within the gaming industry.
 
