@@ -69,12 +69,12 @@ This comprehensive strategy, encompassing cost optimization, granular CTR analys
 
 
 ## Education
-- UNSAM - Universidad Nacional de San Martin 
-Bachelor of Data Science -
+- UNSAM - Universidad Nacional de San Martin. 
+Bachelor of Data Science. 
 Apr 2023 - Now
 
-- UADE - Universidad Argentina de la Empresa 
-Bachelor of Digital Marketing
+- UADE - Universidad Argentina de la Empresa. 
+Bachelor of Digital Marketing. 
 Apr 2021 - Dec 2022
 
 ## Certificates
