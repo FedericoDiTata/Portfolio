@@ -78,6 +78,8 @@ Bachelor of Digital Marketing.
 Apr 2021 - Dec 2022
 
 ## Certificates
+I hold a diverse range of certifications that reflect my expertise and commitment to continuous learning.
+
 My achievements include being recognized among the top 10 performers in Tableau, Data Analytics, and the Data Analytics Career certification at Coderhouse, earning a special distinction displayed as a badge in the upper right corner of my certificates. These certifications represent my dedication to mastering essential skills and staying at the forefront of the ever-evolving digital landscape.
 
 - Data Analytics Career (Coderhouse) - **Top 10 Performer** [Certificate](https://www.coderhouse.com/certificados/65244ba152fd3592c5c08691?lang=es)
