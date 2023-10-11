@@ -17,7 +17,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### **Tableau Dashboard - Restaurant Sales Data**
 
-[URL](https://public.tableau.com/app/profile/federico.di.tata/viz/TableauDashboard-FedericoDiTata/Dashboard-VentasporCategora#1)
+[URL Link Access](https://public.tableau.com/app/profile/federico.di.tata/viz/TableauDashboard-FedericoDiTata/Dashboard-VentasporCategora#1)
 
 **Goal:** The objective of this project was to conduct an in-depth analysis of restaurant sales data, aiming to uncover actionable insights for strategic decision-making and performance optimization.
 
@@ -47,7 +47,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### **Google Data Studio Dashboard - Digital Marketing Campaign Buenos Aires City Government**
 
-[URL](https://lookerstudio.google.com/reporting/790fc121-134d-48f3-9afe-cc9edaff478a)
+[URL Link Access](https://lookerstudio.google.com/reporting/790fc121-134d-48f3-9afe-cc9edaff478a)
 
 **Goal:** The objective of this project is to evaluate the effectiveness of a digital marketing campaign promoting a technology education program for citizens. The analysis aims to gain insights into the campaign's performance metrics. The goal is to identify patterns and trends in the data, enabling informed decision-making for future marketing strategies.
 
