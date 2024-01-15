@@ -65,6 +65,22 @@ To optimize, a multifaceted approach is vital. Cost-efficiency should be the lin
 Moreover, the implementation of a vigilant, real-time monitoring system emerges as indispensable. It ensures proactive adaptation, allowing the campaign to pivot swiftly in response to evolving market dynamics.
 This comprehensive strategy, encompassing cost optimization, granular CTR analysis, platform-specific tailoring, and agile real-time monitoring, will not only enhance the campaign’s efficiency but also establish a resilient framework for future marketing endeavors.
 
+### **Google Data Studio Dashboard - Government Website Analytics Buenos Aires City Government**
+
+[URL Link Access](https://lookerstudio.google.com/reporting/a8840b3a-22de-43cb-8ab8-de8e8d9ed66e)
+
+**Goal**: This project focuses on evaluating the performance of various government websites affiliated with the Buenos Aires City Government. The primary objective is to analyze key metrics derived from Google Analytics 4 (GA4) to gain actionable insights. By leveraging data visualization techniques, the goal is to present a comprehensive overview of website performance, enabling informed decision-making for future optimizations.
+
+**Description**: The analysis delves into datasets sourced from GA4, encompassing metrics such as Sessions, Pageviews, Bounce Rate, Average Session Duration, and User Demographics. The project workflow involves meticulous data extraction, cleaning, and visualization using Google Data Studio. Exploratory Data Analysis (EDA) techniques are employed to uncover patterns and correlations in website traffic and user engagement data.
+
+**Skills**: Data extraction, data cleaning, data visualization, exploratory data analysis (EDA), Google Analytics 4.
+
+**Technology**: Google Data Studio, GA4, Data manipulation, and visualization tools.
+
+**Results**: The project culminates in a dynamic Google Data Studio dashboard providing a holistic view of website performance metrics across various government sites. Through interactive visualizations, stakeholders can delve into details such as user demographics, popular content, and user engagement patterns. The dashboard acts as a centralized hub for monitoring and optimizing website performance.
+
+**Analysis**: Examining the GA4 metrics for government websites sheds light on critical insights. By understanding user demographics and behavior, content strategies can be tailored to enhance user engagement. Identifying high-bounce rate pages prompts focused optimization efforts to improve content relevance. Analyzing average session duration unveils user preferences, aiding in the refinement of content delivery. Platform-specific insights guide the optimization of pages for diverse user devices. Overall, this comprehensive analysis serves as a foundation for strategic decision-making, ensuring an enhanced online experience for users interacting with government websites in Buenos Aires.
+
 
 ## Education
 - UNSAM - Universidad Nacional de San Martin. 
